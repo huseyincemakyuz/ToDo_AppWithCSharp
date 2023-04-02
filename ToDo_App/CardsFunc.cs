@@ -8,7 +8,6 @@ namespace ToDo_App
 {
     internal class CardsFunc
     {
-        //Board board = new Board();
         TeamMembers teamMembers = new TeamMembers();
 
         // Board'daki her line göre cardları listeliyoruz.
